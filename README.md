@@ -1,10 +1,11 @@
 ### Hi there 👋
+
 - 🔭 Currently working on GTD management system app
 - 🌱 Currently learning Flutter
 - 🤔 Looking for help with [avr-api timers subsystem](https://github.com/niktob560/avr-api/issues/12)
 - ⚡ Fun fact: writing in C++ from 12 y.o.
 - 📫 How to reach me: niktob560@yandex.ru
-
+- 👯 Open for offers
 <!--
 **niktob560/niktob560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
