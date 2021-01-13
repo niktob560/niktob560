@@ -3,7 +3,7 @@
 - 🔭 Currently working on GTD management system app and writing own RTOS
 - 🌱 Currently learning Flutter
 - 🤔 Looking for help with [avr-api timers subsystem](https://github.com/niktob560/avr-api/issues/12)
-- ⚡ Fun fact: writing in C++ from 12 y.o.
+- ⚡ Fun fact: writing in C++ from 14 y.o.
 - 📫 How to reach me: niktob560@yandex.ru
 - 👯 Open for offers
 <!--
